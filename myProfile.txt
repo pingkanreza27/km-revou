@@ -1,0 +1,3 @@
+nama: Pingkan
+usia : 21
+Profesi : cashier
